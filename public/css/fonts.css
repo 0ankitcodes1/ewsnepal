@@ -1,0 +1,11 @@
+/* font family open_sans*/
+@font-face {
+    font-family: Open_Sans;
+    src: url(../fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf);
+}
+
+/* font family */
+@font-face {
+    font-family: Rubik;
+    src: url(../fonts/Rubik/static/Rubik-Regular.ttf);
+}

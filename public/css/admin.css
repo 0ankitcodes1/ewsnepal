@@ -1,0 +1,3 @@
+.analytics-container, .app-footer { display: none !important; }
+input, .mce-tinymce { border: 1px solid #adadad !important; }
+.control-label { font-weight: bold; }
